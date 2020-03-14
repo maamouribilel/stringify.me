@@ -1,0 +1,17 @@
+{
+    "basics": {
+        "name": "Bilel Maamouri",
+        "label": "Full Stack Web Developer",
+        "picture": "https://avatars0.githubusercontent.com/u/24778091?s=460&u=2ac40938c0f548e5261eec2178957134412689aa&v=4",
+        "email": "maamouri.bilel@gmail.com",
+        "phone": "(+216) 20 183 144",
+        "twitter": "https://twitter.com/bilel_maamouri",
+        "facebook": "https://www.facebook.com/maamouri.bilell",
+        "github": "https://github.com/maamouribilel",
+        "summary": "Je suis un développeur full-stack possédant un vaste éventail de connaissances dans de nombreux technologies front-end et back-end, des Frameworks, des bases de données et des meilleures pratiques de code. Mon objectif est simplement d'être le meilleur développeur Web que je puisse être et de contribuer à l'industrie des technologies par tout ce que je sais et ce que je peux faire."
+    },
+    "theme": {
+        "url": "https://github.com/prakis/stringify.me-theme",
+        "background": "#318cf5"
+    }
+}
